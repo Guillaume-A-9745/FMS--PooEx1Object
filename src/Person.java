@@ -1,7 +1,8 @@
+
 /**
  * 
  * @author AnselmeG
- * exercicec 1.8
+ * exercice 1.8
  */
 public class Person {
 
